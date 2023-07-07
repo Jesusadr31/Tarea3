@@ -119,4 +119,3 @@ while True:
         break
 
 
-print("Arreglo Agregado")
