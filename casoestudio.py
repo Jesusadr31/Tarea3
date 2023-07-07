@@ -118,3 +118,5 @@ while True:
         print("Gracias por usar el sistema de nómina \"Saman Inc\". Hasta pronto.")
         break
 
+
+print("Arreglo Agregado")
